@@ -5,4 +5,4 @@ Learn old ES5 javascript to build a buget app
 3. this project is originally written in ES5, learning the old and original javascript and how it works
 4. future might update it to most recent javascript version.
 
-![image](./cover.png)
+![image](./cover.png ':size=903x516')
